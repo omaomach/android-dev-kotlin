@@ -20,4 +20,7 @@ fun main() {
     rental1.number = 10
     rental1.displayGreetings()
 
+    var joash = Christian()
+    println(joash.religion)
+
 }
