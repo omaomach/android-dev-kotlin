@@ -23,4 +23,7 @@ fun main() {
     var joash = Christian()
     println(joash.religion)
 
+    var inner = Outer.Inner()
+    print(inner.level)
+
 }
